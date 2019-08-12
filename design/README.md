@@ -13,7 +13,7 @@
 - who will use this for harm?
 - how will this be used for harm?
 - how do the answers (or lack thereof) to the above change our approach?
-via Stacy-Marie Ishmael https://twitter.com/s_m_i/status/1135253746865254400
+> via Stacy-Marie Ishmael https://twitter.com/s_m_i/status/1135253746865254400
 
 ## inclusive design
 - microsoft's inclusive design guide https://www.microsoft.com/design/inclusive
@@ -31,6 +31,9 @@ via Stacy-Marie Ishmael https://twitter.com/s_m_i/status/1135253746865254400
 
 ## CSS tools
 - track css stats https://www.npmjs.com/package/cssstats
+
+## CSS articles
+- http://mrmrs.cc/writing/scalable-css/
 
 ## Related resources
 https://photoshopetiquette.com
