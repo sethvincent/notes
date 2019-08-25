@@ -1,6 +1,5 @@
 # Continuous deployment
 
-- deploy on tag/release
-- deploy on merge to master
-- manual deploy
-  - from slack or other chat
+## Publishing modules with Github Actions
+
+Publishing new versions of a module using tags, releases, & Github Actions is a straightforward process. Check out this repo as an example: [sethvincent/example-github-actions-node](https://github.com/sethvincent/example-github-actions-node).
