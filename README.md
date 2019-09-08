@@ -17,6 +17,9 @@
 - [git](git/README.md)
   - [workflows](git/workflows/README.md)
 
+## See also
+- Google's engineering practices documentation has [guidelines for creating and reviewing pull requests](https://google.github.io/eng-practices/)
+
 ## Contributing
 
 Interested in contributing to one of these projects? Awesome! Get involved in the project-specific issue queues, chat rooms, or other project-specific forums.
