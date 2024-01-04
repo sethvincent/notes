@@ -1,8 +1,8 @@
 # Git workflows
 
-- [Github Flow](github.md)
-- [Gitlab Flow](gitlab.md)
-- [Git Flow](git-flow.md)
+- [Github Flow](github.md) (I typically use this.)
+- [Gitlab Flow](gitlab.md) (Seems kinda complicated.)
+- [Git Flow](git-flow.md) (Highly discouraged. Use continuous testing and deployment instead!)
 
 ## See also
 - [continuous deployment](../../continuous-deployment/README.md)
