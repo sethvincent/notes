@@ -1,6 +1,6 @@
 # Notes
 
-> My public notebook for whatever seems useful to me and you.
+> My public notebook for whatever seems useful to me & you.
 
 ## Contents
 - [continuous deployment](continuous-deployment/README.md)
